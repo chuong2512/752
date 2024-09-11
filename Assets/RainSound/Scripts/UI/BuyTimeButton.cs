@@ -38,24 +38,24 @@ public class BuyTimeButton : MonoBehaviour
         switch (_index)
         {
             case 0:
-                _text.SetText("1 day");
+                _text.SetText("7 day");
                 _priceText.SetText("0.99$");
-                _timer = 1;
-                break;
-            case 1:
-                _text.SetText("7 days");
-                _priceText.SetText("1.99$");
                 _timer = 7;
                 break;
-            case 2:
+            case 1:
                 _text.SetText("30 days");
-                _priceText.SetText("4.99$");
+                _priceText.SetText("1.99$");
                 _timer = 30;
                 break;
+            case 2:
+                _text.SetText("6 months");
+                _priceText.SetText("4.99$");
+                _timer = 180;
+                break;
             case 3:
-                _text.SetText("3 months");
+                _text.SetText("1 year");
                 _priceText.SetText("9.99$");
-                _timer = 90;
+                _timer = 365;
                 break;
         }
     }
