@@ -63,7 +63,7 @@ public class BuyCoinButton : MonoBehaviour
                 break;
         }
 
-        _text.SetText($" + {_coin} <sprite=0>");
+        _text.SetText($"{_coin}");
     }
 
     private void OnClickButton()

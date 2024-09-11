@@ -25,7 +25,7 @@ namespace ABCBoard.Scripts.UI
 
         private void ShowCurrentCoin()
         {
-            _tmp.SetText($"{GameDataManager.Instance.playerData.intDiamond} <sprite=0>");
+            _tmp.SetText($"{GameDataManager.Instance.playerData.intDiamond}");
         }
     }
 }
