@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Promo2/Scenes/GameConfig.unity
+    guid: c7043b55af666a44ca376050f30909af
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle1.unity
+    guid: 4516d1e3388aa0b548c74380658d4bad
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle2.unity
+    guid: f2752b43a7c0c0c4c9acd171273866ed
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle3.unity
+    guid: 2f46796b598fe2f4baaeb2119e9c2a19
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle4.unity
+    guid: 3b566b8282420cf4cbd762390da2d577
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle5.unity
+    guid: 09d76994b202d7a43a5805c49b7482d3
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle6.unity
+    guid: 7a804c7d8f5d7504da21c243561664e6
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle7.unity
+    guid: 0e576f9ce8fb8fd45a8559ee839105ac
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle8.unity
+    guid: 4b0ddef561ca0714096840a239672ef7
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle9.unity
+    guid: acce67cf899040642ac205412d4ddaaf
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle10.unity
+    guid: 6c7844dfcc0008d4baa266be397c387d
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle11.unity
+    guid: 51b642a65454e9e408e4a3f2613f60cc
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle12.unity
+    guid: 2981b7199d890dc4295dfbbb20b4796f
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle13.unity
+    guid: e07aa2dd127a0e641be0f3bce8ddbbab
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle14.unity
+    guid: 366313c91b7e7f94bb63f089a0887b77
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle15.unity
+    guid: 4d16b34ec687ba04d914c0034b23d86d
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle16.unity
+    guid: 8618026f2c448484ab5b9e8f18bd4796
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle17.unity
+    guid: 055ebe69ba4c8d14fa3f3880d24443de
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle18.unity
+    guid: b3b15da69ad1c2b449568750b1653cfc
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle19.unity
+    guid: 94011cb4463aa93489832bed0e558671
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle20.unity
+    guid: 165a1729b99dd1c44b54a35203447f6b
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle21.unity
+    guid: e8b8de586a2b35a4593a301169fce376
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle22.unity
+    guid: fb9be6e004810a74c9141691ac85cb43
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle23.unity
+    guid: da944b4293d6a584e8e9179a79cb8442
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle24.unity
+    guid: ca185242c8bbf9147a8a6290cacc949e
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle25.unity
+    guid: 680aa6ecda179f8498338f3c7f51a6ac
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle26.unity
+    guid: 124b7e7bfc71b39409403019b882c693
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle27.unity
+    guid: 9911cfe8b2b1cea4fa0f06400004c776
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle28.unity
+    guid: b126d5cbbb3d54140bf2ab0ba08b0628
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle29.unity
+    guid: 52cd606bcaa3c304eb64dea213b297ea
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle30.unity
+    guid: b474455e2f47d9a4ba445a9328f411d7
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle31.unity
+    guid: 2fecba1e8cd57234da69ffe36f0e3b49
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle32.unity
+    guid: 97747959d7f732b4c9b049dfd7847bca
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle33.unity
+    guid: e271835c53a178141bfbbf4eecb91635
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle34.unity
+    guid: d64bd777efb693d4a8f7f5093e7a2167
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle35.unity
+    guid: 599a3df30da3c9a40b1ad6f4a0b0922f
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle36.unity
+    guid: 0509abd0b8d14e24784c1fb5c7974b7f
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle37.unity
+    guid: a45868432328c664e944e25f53eea912
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle38.unity
+    guid: e76a8973247c8ab43b47fce7400e4db7
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle39.unity
+    guid: 2ae2c30941c12f84381c55b3078c69f7
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle40.unity
+    guid: 15674ab3ea0442b499e1eeeae343543e
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle41.unity
+    guid: 8d01341e0282e3a4e9d1b38cea5cccae
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle42.unity
+    guid: 6a3175f35e4af6b4192d29ae4b97dd80
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle43.unity
+    guid: 351a2fe2a6d8b134f898f043cad18ae3
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle44.unity
+    guid: 0e1c5e24d37284e47bc1b79e31cae5bc
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle45.unity
+    guid: 37aaec75bd1c1f14b9abae7ab94b3d79
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle46.unity
+    guid: 20526dda66e65dc47ac873d2c3edd0fa
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle47.unity
+    guid: 8ad0fa098ab1a204883c86f8d990e63c
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle48.unity
+    guid: b1d28afb282adfe4280d0d6ab9085bd4
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle49.unity
+    guid: 7ce382d362c710b4ead5df73d60799c4
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle50.unity
+    guid: 4a2a14f3d7bc65e4d960a1be0ed8453e
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle51.unity
+    guid: 170a45cfc8a99a64c806c93891a58ede
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle52.unity
+    guid: 3d24627619052804b88ff0f7fda8adc8
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle53.unity
+    guid: 71f2bf0e4ba81f340b506fd366e95357
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle54.unity
+    guid: a1e635e7631345a4ba11e9557fa86fef
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle55.unity
+    guid: ae5d4862a3e167f44b0ff702d64ce75d
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle56.unity
+    guid: bcb6498a194055a4194d46fcf6900548
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle57.unity
+    guid: bed21720eff249f4a8e5a4b5391f2718
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle58.unity
+    guid: c92b1996e84b1a3428a7f5016645c006
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle59.unity
+    guid: 67339c76f3300454aa28b5835a61d0bd
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle60.unity
+    guid: 4a498a13171b19e4fa83dde8b88c2860
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle61.unity
+    guid: d8909768694c7c04ebeaf565659f20c9
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle62.unity
+    guid: 601fbafd077b44143a954885cd8547f8
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle63.unity
+    guid: 9246e9bab7651a842aca466f8cd9dfce
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle64.unity
+    guid: ee11fac1b65a57845ae7be50abe8d785
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle65.unity
+    guid: d7c644d0824b9704caa0b693094d8ef2
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle66.unity
+    guid: a03ccf18bfd9bf649abbdc9472fe0003
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle67.unity
+    guid: b772456786837794b80b3a7e7de7ba87
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle68.unity
+    guid: b416f22e1d7dde34eb21f369a92779b9
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle69.unity
+    guid: df2e69758fa6ee04193893b80061385b
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle70.unity
+    guid: 4985d18f47f67f24e9e864884b3ba18d
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle71.unity
+    guid: 9de4c3d1501170c48b83f63da98fbd8e
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle72.unity
+    guid: abcd1969cc128cb438a315dca79b66da
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle73.unity
+    guid: 673004621243c7140a8af52a555a6388
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle74.unity
+    guid: ad5656629d59cdd48b6bea360c86352a
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle75.unity
+    guid: 557210428bdcb8449a993d2923f85a9c
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle76.unity
+    guid: 7b6c3b844aca06c46b02da12f91d444c
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle77.unity
+    guid: cf83006329b299c4aafc8712d58794e6
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle78.unity
+    guid: 26e0e475879961b448b0997bb8960bd0
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle79.unity
+    guid: cd9474229c18dee48b5dce8c0b6caa58
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle80.unity
+    guid: 79bfb0035f474c64cb1c75dc6bbd95e3
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle81.unity
+    guid: 1dd4cdd0697147641a0804f6f7a26321
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle82.unity
+    guid: 0fa8291934bc0604a8c8a4af4bc4ab70
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle83.unity
+    guid: e4def81993718a441ab2eadc7c2d54c2
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle84.unity
+    guid: 90ecd112dca45ad4dbbe02c94a2a0d6c
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle85.unity
+    guid: 20df9559876fae9478f12f5e9f266b60
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle86.unity
+    guid: 7da63ea74e8761a4eb1132cfbf558c47
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle87.unity
+    guid: 2d49d2ba34a19a04ba975006440ef3dd
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle88.unity
+    guid: f106737b3f9ca3747b8ac56a76eeb82f
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle89.unity
+    guid: 9052825cbd9046a4a817ed936c184d14
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle90.unity
+    guid: ce4bcd5e4cee5d6418c8f36b76532146
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle91.unity
+    guid: 9087f40dfb2028e45b6470d541725d82
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle92.unity
+    guid: 6b7d099dab080714590e489c1da7ceac
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle93.unity
+    guid: 8f0d921b6f5f55c4088c11c84c104d32
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle94.unity
+    guid: e6f9f754181100d4ea31707041debef2
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle95.unity
+    guid: b3b6afb0aae995942b287858bbccf5b1
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle96.unity
+    guid: a88e268602a0f6f4dad334316c9201a6
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle97.unity
+    guid: 7b075b432f365b748a21fe2c27e10d01
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle98.unity
+    guid: 5016075a022e3e243a4dcb37ef125480
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle99.unity
+    guid: d41be0035bc29b644a70e4af302c5df3
+  - enabled: 1
+    path: Assets/Scene/Scenes/levle100.unity
+    guid: 6ad5a0e05e8faa24aabdbdc9d56f2848
+  m_configObjects: {}
